@@ -1,0 +1,6 @@
+2022/04/14-14:02:26.711 3 Reusing MANIFEST /home/luc/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2022/04/14-14:02:26.712 3 Recovering log #3
+2022/04/14-14:02:26.713 3 Reusing old log /home/luc/.config/chromium/Default/Local Storage/leveldb/000003.log 
+2022/04/14-14:05:55.177 3 Level-0 table #5: started
+2022/04/14-14:05:55.226 3 Level-0 table #5: 65220 bytes OK
+2022/04/14-14:05:55.271 3 Delete type=0 #3

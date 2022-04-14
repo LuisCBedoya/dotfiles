@@ -1,0 +1,6 @@
+2022/04/13-16:21:41.851 4944 Creating DB /home/luc/.config/chromium/Default/IndexedDB/https_www.pexels.com_0.indexeddb.leveldb since it was missing.
+2022/04/13-16:21:41.945 4944 Reusing MANIFEST /home/luc/.config/chromium/Default/IndexedDB/https_www.pexels.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/13-16:40:58.980 4f55 Level-0 table #5: started
+2022/04/13-16:40:59.002 4f55 Level-0 table #5: 4281 bytes OK
+2022/04/13-16:40:59.035 4f55 Delete type=0 #3
+2022/04/13-16:40:59.036 4f55 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

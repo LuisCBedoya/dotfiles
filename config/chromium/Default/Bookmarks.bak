@@ -1,0 +1,61 @@
+{
+   "checksum": "e521e6c7fc13a00937ee4f994cf9d2b3",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13294367762277099",
+            "guid": "0212a928-62db-4790-8e01-2b9c13e165cf",
+            "id": "5",
+            "name": "Comandos Arch",
+            "type": "url",
+            "url": "https://blog.desdelinux.net/comandos-arch-linux-todos-usuarios-deberian-saber/"
+         }, {
+            "date_added": "13294372700016764",
+            "guid": "f39826bc-1ee0-49ca-89bc-94a3985f2fd4",
+            "id": "7",
+            "name": "",
+            "type": "url",
+            "url": "http://www.malditonerd.com/tip-como-aumentar-el-volumen-de-linux-mas-alla-del-100/"
+         }, {
+            "date_added": "13294375449948435",
+            "guid": "d034eb1d-b45c-4501-b61d-bfa8e744db0e",
+            "id": "8",
+            "name": "Config Bspwm",
+            "type": "url",
+            "url": "https://corneliuswolfe.com/bspwm-configuration/"
+         }, {
+            "date_added": "13294375835818872",
+            "guid": "e01b275c-05a3-41e4-ac9b-ba869ab05921",
+            "id": "9",
+            "name": "Config",
+            "type": "url",
+            "url": "https://gitlab.com/d33vliter/voidbsp/-/commit/5e88a337ff649bedc3b0e87a656ecd2db0bf5e0e"
+         } ],
+         "date_added": "13294353922008130",
+         "date_modified": "13294375835818872",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13294353922008132",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Otros favoritos",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13294353922008134",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos del celular",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

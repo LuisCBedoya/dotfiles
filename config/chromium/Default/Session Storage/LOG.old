@@ -1,0 +1,11 @@
+2022/04/14-13:53:46.407 3 Reusing MANIFEST /home/luc/.config/chromium/Default/Session Storage/MANIFEST-000001
+2022/04/14-13:53:46.408 3 Recovering log #11
+2022/04/14-13:53:46.408 3 Level-0 table #14: started
+2022/04/14-13:53:46.424 3 Level-0 table #14: 27546 bytes OK
+2022/04/14-13:53:46.424 3 Recovering log #14
+2022/04/14-13:53:46.425 3 Reusing old log /home/luc/.config/chromium/Default/Session Storage/000014.log 
+2022/04/14-13:53:46.470 3 Delete type=2 #15
+2022/04/14-13:53:46.470 3 Delete type=0 #11
+2022/04/14-13:54:55.358 3 Level-0 table #16: started
+2022/04/14-13:54:55.419 3 Level-0 table #16: 80034 bytes OK
+2022/04/14-13:54:55.452 3 Delete type=0 #14

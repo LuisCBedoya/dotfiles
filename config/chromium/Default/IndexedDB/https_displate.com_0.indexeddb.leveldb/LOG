@@ -1,0 +1,6 @@
+2022/04/14-08:29:20.850 8316 Creating DB /home/luc/.config/chromium/Default/IndexedDB/https_displate.com_0.indexeddb.leveldb since it was missing.
+2022/04/14-08:29:20.920 8316 Reusing MANIFEST /home/luc/.config/chromium/Default/IndexedDB/https_displate.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/14-08:29:53.932 810f Level-0 table #5: started
+2022/04/14-08:29:53.976 810f Level-0 table #5: 5819 bytes OK
+2022/04/14-08:29:54.010 810f Delete type=0 #3
+2022/04/14-08:29:54.010 810f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
