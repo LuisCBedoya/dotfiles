@@ -11,7 +11,7 @@
 - **Shell** : Zsh
 - **Terminal**: Kitty
 - **Gestor de Archivos**: PCManFM
-- **Compositor**: picom-tryone-git
+- **Compositor**: picom
 - **Generador de color**: pywal
 - **WM**: Bspwm
 - **Bar**: Tint2
