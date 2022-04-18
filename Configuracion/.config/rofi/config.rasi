@@ -1,0 +1,7 @@
+/* Dark theme. */
+@import "~/.cache/wal/colors-rofi-dark"
+
+/* Light theme. */
+@import "~/.cache/wal/colors-rofi-light"
+//@theme "/usr/share/rofi/themes/arthur.rasi"
+@theme "/usr/share/rofi/themes/arthur.rasi"

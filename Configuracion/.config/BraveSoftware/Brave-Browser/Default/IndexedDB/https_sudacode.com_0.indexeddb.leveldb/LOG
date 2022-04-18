@@ -1,0 +1,6 @@
+2022/04/17-12:41:26.270 173b Creating DB /home/luc/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_sudacode.com_0.indexeddb.leveldb since it was missing.
+2022/04/17-12:41:26.367 173b Reusing MANIFEST /home/luc/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_sudacode.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/17-12:41:58.761 173b Level-0 table #5: started
+2022/04/17-12:41:58.783 173b Level-0 table #5: 2227 bytes OK
+2022/04/17-12:41:58.817 173b Delete type=0 #3
+2022/04/17-12:41:58.818 173b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,44 @@
+1#! /bin/sh
+
+# source the colors.
+. "${HOME}/.cache/wal/colors.sh"
+# Set the border colors.
+bspc config normal_border_color "$color1"
+bspc config active_border_color "$color2"
+bspc config focused_border_color "$color15"
+# Use the line below if you are on bspwm >= 0.9.4
+bspc config presel_feedback_color "$color1"
+# Use the line below if you are on bspwm < 0.9.4
+#bspc config presel_border_color "$color1"
+
+
+setxkbmap -layout latam &
+feh --bg-fill $HOME/.local/share/background/blu.jpg &
+numlockx on &
+picom --experimental-backends &
+#bspc config focused_border_color     "#003366"
+pgrep -x sxhkd > /dev/null || sxhkd &
+
+polybar bottom -c $HOME/.config/polybar/config.ini &
+
+bspc monitor -d I II III IV V 
+
+bspc config border_width        1
+bspc config window_gap          10
+bspc config split_ratio          0.50
+bspc config borderless_monocle   true
+bspc config gapless_monocle      true
+bspc config history_aware_focus  true
+bspc config focus_follows_pointer       true
+bspc config top_padding 0
+bspc config bottom_padding 20
+bspc config right_padding 0
+bspc config left_padding 0
+bspc rule -a Gimp desktop='^8' state=floating follow=on
+bspc rule -a Chromium desktop='^2'
+bspc rule -a mplayer2 state=floating
+bspc rule -a Kupfer.py focus=on
+bspc rule -a Screenkey manage=off
+
+
+xsetroot -cursor_name left_ptr &

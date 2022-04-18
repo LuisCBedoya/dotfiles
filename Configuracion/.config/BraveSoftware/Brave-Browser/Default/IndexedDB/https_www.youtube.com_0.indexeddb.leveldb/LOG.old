@@ -1,0 +1,12 @@
+2022/04/17-19:59:38.267 6b92 Reusing MANIFEST /home/luc/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/17-19:59:38.267 6b92 Recovering log #27
+2022/04/17-19:59:38.275 6b92 Reusing old log /home/luc/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000027.log 
+2022/04/17-20:00:09.315 69f0 Level-0 table #32: started
+2022/04/17-20:00:09.400 69f0 Level-0 table #32: 1060848 bytes OK
+2022/04/17-20:00:09.458 69f0 Delete type=0 #27
+2022/04/17-20:01:01.959 6b92 Compacting 1@1 + 1@2 files
+2022/04/17-20:01:02.018 6b92 Generated table #33@1: 337 keys, 26459 bytes
+2022/04/17-20:01:02.018 6b92 Compacted 1@1 + 1@2 files => 26459 bytes
+2022/04/17-20:01:02.052 6b92 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/04/17-20:01:02.052 6b92 Delete type=2 #32
+2022/04/17-20:01:02.052 6b92 Delete type=2 #29

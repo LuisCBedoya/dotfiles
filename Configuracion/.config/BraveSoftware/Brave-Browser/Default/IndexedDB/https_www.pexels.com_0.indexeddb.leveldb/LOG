@@ -1,0 +1,6 @@
+2022/04/17-21:43:51.433 1c4b Creating DB /home/luc/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.pexels.com_0.indexeddb.leveldb since it was missing.
+2022/04/17-21:43:51.523 1c4b Reusing MANIFEST /home/luc/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.pexels.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/17-21:44:15.715 1c17 Level-0 table #5: started
+2022/04/17-21:44:15.738 1c17 Level-0 table #5: 3850 bytes OK
+2022/04/17-21:44:15.771 1c17 Delete type=0 #3
+2022/04/17-21:44:15.772 1c17 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

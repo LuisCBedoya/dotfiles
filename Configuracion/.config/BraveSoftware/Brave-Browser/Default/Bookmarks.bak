@@ -1,0 +1,40 @@
+{
+   "checksum": "fb013f4116475ebcfac7796a2c9ba61b",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13294615046251087",
+            "guid": "ba5cbecb-49cf-4a1c-962c-392e85f44ff1",
+            "id": "5",
+            "name": "Código | Cristo - Despues-de-instalar-Arch",
+            "type": "url",
+            "url": "https://codigocristo.es.tl/Despues_de_instalar_Arch.htm"
+         } ],
+         "date_added": "13294613664432221",
+         "date_modified": "13294615046251087",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13294613664432224",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Otros favoritos",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13294613664432225",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos del celular",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

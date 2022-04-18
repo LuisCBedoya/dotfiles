@@ -1,0 +1,68 @@
+{
+   "checksum": "4efccbc97c18de32da6e93082ea47844",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13294615046251087",
+            "guid": "ba5cbecb-49cf-4a1c-962c-392e85f44ff1",
+            "id": "5",
+            "name": "Código | Cristo - Despues-de-instalar-Arch",
+            "type": "url",
+            "url": "https://codigocristo.es.tl/Despues_de_instalar_Arch.htm"
+         }, {
+            "date_added": "13294622147199972",
+            "guid": "ef0d7b0e-1782-4f20-8a37-2d6a4ace41be",
+            "id": "7",
+            "name": "dotfiles/bspwmrc at ea4f0c2700ba36bf42aa0163b7333aa7d3e594e7 · Gbox4/dotfiles · GitHub",
+            "type": "url",
+            "url": "https://github.com/Gbox4/dotfiles/blob/ea4f0c2700ba36bf42aa0163b7333aa7d3e594e7/.config/bspwm/bspwmrc"
+         }, {
+            "date_added": "13294622149889206",
+            "guid": "1005e0ec-b46b-4b08-b781-287e3cefc456",
+            "id": "8",
+            "name": "How to Install and Customize Polybar- Ultimate Polybar Beginner's Guide - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=tOBDUBEMAKM"
+         }, {
+            "date_added": "13294622153913620",
+            "guid": "17896a97-5e63-4795-b8f7-f223b50c6e63",
+            "id": "9",
+            "name": "[bspwm] dracula rice + polybar : unixporn",
+            "type": "url",
+            "url": "https://www.reddit.com/r/unixporn/comments/su3pea/bspwm_dracula_rice_polybar/"
+         }, {
+            "date_added": "13294622156241004",
+            "guid": "1c2e9e4c-8b99-4e05-b51c-128be40c43b5",
+            "id": "10",
+            "name": "aghbe4p5r8i81.png (1920×3240)",
+            "type": "url",
+            "url": "https://i.redd.it/aghbe4p5r8i81.png"
+         } ],
+         "date_added": "13294613664432221",
+         "date_modified": "13294622156241004",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13294613664432224",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Otros favoritos",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13294613664432225",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos del celular",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

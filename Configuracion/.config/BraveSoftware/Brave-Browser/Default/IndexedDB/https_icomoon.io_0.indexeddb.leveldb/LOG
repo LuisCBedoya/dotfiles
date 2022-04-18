@@ -1,0 +1,6 @@
+2022/04/17-15:35:34.973 3fe3 Creating DB /home/luc/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_icomoon.io_0.indexeddb.leveldb since it was missing.
+2022/04/17-15:35:35.068 3fe3 Reusing MANIFEST /home/luc/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_icomoon.io_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/17-15:35:47.775 451e Level-0 table #5: started
+2022/04/17-15:35:47.815 451e Level-0 table #5: 1719 bytes OK
+2022/04/17-15:35:47.849 451e Delete type=0 #3
+2022/04/17-15:35:47.849 451e Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
